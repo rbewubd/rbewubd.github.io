@@ -464,16 +464,9 @@ section {
 /*--------------------------------------------------------------
 # Highlights
 --------------------------------------------------------------*/
-.carousel-inner{
+.w-100 {
   width: 100%;
-  height: calc(100vh - 60px);
-  object-fit: cover;
-}
-
-.carousel-item{
-  width: 100%;
-  height:calc(100vh - 60px);
-  object-fit: cover;
+  height: 100vh;
 }
 /*--------------------------------------------------------------
 # Resume
